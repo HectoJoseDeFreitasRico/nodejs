@@ -14,7 +14,7 @@ conexion.connect(function(err){
 	conexion.query(`
 					UPDATE entradas
 					SET titulo = 'Titulo modificado'
-					WHERE id = 2
+					WHERE id = 4
 					
 		`,function(err,result){
 		if(err) throw err;

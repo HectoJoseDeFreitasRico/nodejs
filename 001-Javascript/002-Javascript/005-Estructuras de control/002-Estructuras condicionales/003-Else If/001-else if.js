@@ -4,7 +4,7 @@ if(diadelasemana == "lunes"){
 }else if(diadelasemana == "martes"){
 	console.log("Hoy es martes");
 }else if(diadelasemana == "miercoles"){
-	console.log("Hoy es marmiercolestes");
+	console.log("Hoy es miercoles");
 }else if(diadelasemana == "jueves"){
 	console.log("Hoy es jueves");
 }else if(diadelasemana == "viernes"){
